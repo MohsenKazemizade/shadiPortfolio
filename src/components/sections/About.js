@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Shadi
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                Sajjadi
               </span>
             </span>
           </h2>
@@ -36,7 +36,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Age :</span>
-                    <span>27 Years</span>
+                    <span>33 Years</span>
                   </span>
                 </span>
               </li>
@@ -44,7 +44,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Nationality :</span>
-                    <span>German</span>
+                    <span>Persian</span>
                   </span>
                 </span>
               </li>
@@ -60,25 +60,25 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Langages :</span>
-                    <span>English</span>
+                    <span>Farsi/English</span>
                   </span>
                 </span>
               </li>
             </ul>
             <ul>
-              <li>
+              {/* <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
                     <span>London</span>
                   </span>
                 </span>
-              </li>
+              </li> */}
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>21 184 010</span>
+                    <span>+98 935 968 4661</span>
                   </span>
                 </span>
               </li>
@@ -86,15 +86,21 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>contact@steven.net</span>
+                    <span>shadisajjadi@gmail.com</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Skype :</span>
-                    <span>steven.walker</span>
+                    <span>LinkedIn :</span>
+                    <a
+                      href="https://www.linkedin.com/in/shadisajjadi/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Shadi Linkedin
+                    </a>
                   </span>
                 </span>
               </li>

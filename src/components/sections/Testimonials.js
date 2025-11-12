@@ -7,14 +7,16 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " I worked with Steven, he was very helpful and fast to respond
-                to my inquiry to help with Wordpress website issues and all
-                technical problems. "
+                " I have to mention that she is the kind of person who never
+                stops learning. Every day she surprises you with new tools,
+                insights, and methods. "
               </span>
-              <span className="person">Jasmin Aniston</span>
-              <span className="job">Director - Adobe</span>
+              <span className="person">Mehdi Malekifar</span>
+              <span className="job">
+                PhD Candidate at emlyon business school
+              </span>
             </p>
-            <img src="assets/testimonials/testimonial-1.jpg" alt="" />
+            <img src="assets/testimonials/Mehdi-Malekifar.jpg" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}
@@ -23,14 +25,15 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Steven is a great help managing a very out of date website.
-                Everything we ask him to do is done quickly and efficiently, we
-                would be lost without him. "
+                " Shadi is an excellent manager. I had a pleasure working for 2
+                years with her, and she leads by example. She always kept the
+                team morale up, and I believe she is the best manager I ever had
+                as she is friendly. "
               </span>
-              <span className="person">Mark Eliott</span>
-              <span className="job">Manager - Envato</span>
+              <span className="person">Niloofar Zeinalian</span>
+              <span className="job">Digital Marketing Specialist</span>
             </p>
-            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+            <img src="assets/testimonials/Niloofar-zeinalian.jpg" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}

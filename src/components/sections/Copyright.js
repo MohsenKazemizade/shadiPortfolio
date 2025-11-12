@@ -7,23 +7,24 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Steven Walker</span>
+        {/* <span>© {new Date().getFullYear()} Steven Walker</span> */}
         <span>
           Designed By{" "}
-          <a
-            target="_blank"
-            href="https://themeforest.net/user/Codeefly/portfolio"
-          >
-            Codeefly
+          <a target="_blank" href="https://mohsenkazemi.com/">
+            MaisonDevs
           </a>
         </span>
         <ul>
           <li>
-            <a href="#">
-              <i className="fa-brands fa-github" />
+            <a
+              target="__blank"
+              href="https://www.linkedin.com/in/mohsen-kazemizade/"
+              rel="noreferrer"
+            >
+              <i className="fa-brands fa-linkedin" />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="#">
               <i className="fa-brands fa-twitter" />
             </a>
@@ -37,7 +38,7 @@ const Copyright = () => {
             <a href="#">
               <i className="fa-brands fa-facebook" />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>
