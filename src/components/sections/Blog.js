@@ -22,26 +22,26 @@ const Blog = () => {
           <Link href="/blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/blog-post-1.jpg" alt="" />
+                <img src="assets/blog/post-1.jpg" alt="" />
               </span>
               <div className="content">
-                <span className="category">design</span>
+                <span className="category">Leadership</span>
                 <span className="title">
-                  How To Publish Content That Ranks On Google
+                  Two Assignments, One Long Day at the Assessment Center
                 </span>
                 <p>
-                  ncididunt ut labore et dolore magna aliqua. Ut enim aminim
-                  veniam...
+                  I recently took part in a full-day assessment center that
+                  started at seven in the...
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-calendar" />
-                    <span>9 Apr 2022</span>
+                    <span>10 Sep 2024</span>
                   </div>
-                  <div className="d-flex align-items-center">
+                  {/* <div className="d-flex align-items-center">
                     <i className="fa-regular fa-comments" />
                     <span>17 comments</span>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </a>
@@ -53,26 +53,24 @@ const Blog = () => {
           <Link href="/blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/blog-post-2.jpg" alt="" />
+                <img src="assets/blog/post-2.jpg" alt="" />
               </span>
               <div className="content">
-                <span className="category">development</span>
+                <span className="category">Product</span>
                 <span className="title">
-                  How Efficient Site Structure Can Boost SEO
+                  Understanding the Developer’s Language: Key Technical Terms
+                  Every Product Owner Should Know
                 </span>
-                <p>
-                  ncididunt ut labore et dolore magna aliqua. Ut enim aminim
-                  veniam...
-                </p>
+                <p>As a Product Owner, you...</p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
                     <i className="fa-regular fa-calendar" />
-                    <span>21 Feb 2022</span>
+                    <span>3 April 2025</span>
                   </div>
-                  <div className="d-flex align-items-center">
+                  {/* <div className="d-flex align-items-center">
                     <i className="fa-regular fa-comments" />
                     <span>34 comments</span>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </a>
@@ -80,7 +78,7 @@ const Blog = () => {
         </div>
         {/* POST ITEM ENDS */}
         {/* POST ITEM STARTS */}
-        <div className="animated-layer fade-in-right-animation fadeInUp wow">
+        {/* <div className="animated-layer fade-in-right-animation fadeInUp wow">
           <Link href="/blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
@@ -108,7 +106,7 @@ const Blog = () => {
               </div>
             </a>
           </Link>
-        </div>
+        </div> */}
         {/* POST ITEM ENDS */}
       </div>
       {/* LATEST POSTS ENDS */}
