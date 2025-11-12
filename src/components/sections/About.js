@@ -124,17 +124,31 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-wordpress-plain" />
+                <img
+                  src="/assets/logos/Product-Ownership-Icon.png"
+                  alt="Product Ownership"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-wordpress-plain" /> */}
               </span>
-              <h4>WordPress</h4>
+              <h4>Product Ownership</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-jquery-plain" />
+                <img
+                  src="/assets/logos/Creative-Project-Management.png"
+                  alt="Project Management"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-jquery-plain" /> */}
               </span>
-              <h4>jQuery</h4>
+              <h4>Project Management</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -142,17 +156,31 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-angularjs-plain" />
+                <img
+                  src="/assets/logos/UX-Strategy.png"
+                  alt="UX Strategy"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-angularjs-plain" /> */}
               </span>
-              <h4>Angular JS</h4>
+              <h4>UX Strategy</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-drupal-plain" />
+                <img
+                  src="/assets/logos/Design-Thinking.png"
+                  alt="Design Thinking"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-drupal-plain" /> */}
               </span>
-              <h4>Drupal</h4>
+              <h4>Design Thinking</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -160,17 +188,31 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-react-plain" />
+                <img
+                  src="/assets/logos/Data-Analytics.png"
+                  alt="Data Analytics"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-react-plain" /> */}
               </span>
-              <h4>React JS</h4>
+              <h4>Data Analytics</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-docker-plain" />
+                <img
+                  src="/assets/logos/Agile-Scrum.png"
+                  alt="Agile Scrum"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-docker-plain" /> */}
               </span>
-              <h4>Docker</h4>
+              <h4>Agile & Scrum</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -178,17 +220,31 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-nodejs-plain" />
+                <img
+                  src="/assets/logos/HTML-CSS.png"
+                  alt="HTML CSS"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-nodejs-plain" /> */}
               </span>
-              <h4>Node JS</h4>
+              <h4>HTML & CSS</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-sass-plain" />
+                <img
+                  src="/assets/logos/Figma.png"
+                  alt="Figma"
+                  width="74"
+                  height="74"
+                  style={{ transform: "rotate(-45deg)" }}
+                />
+                {/* <i className="devicon-sass-plain" /> */}
               </span>
-              <h4>Sass</h4>
+              <h4>Figma</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
