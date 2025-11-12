@@ -50,7 +50,7 @@ const Blog = () => {
         {/* POST ITEM ENDS */}
         {/* POST ITEM STARTS */}
         <div className="animated-layer fade-in-right-animation fadeInUp wow">
-          <Link href="/blog-post" legacyBehavior>
+          <Link href="/blog-post2" legacyBehavior>
             <a>
               <span className="img-holder">
                 <img src="assets/blog/post-2.jpg" alt="" />

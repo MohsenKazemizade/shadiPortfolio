@@ -171,7 +171,10 @@ const About = () => {
                 />
                 {/* <i className="devicon-angularjs-plain" /> */}
               </span>
-              <h4>UX Strategy</h4>
+              <h4>
+                UX <br />
+                Strategy
+              </h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
